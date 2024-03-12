@@ -7,11 +7,12 @@
         <li>
 Create index.php and style.css:
    Inside your my_custom_theme folder, create index.php and style.css files.</li>
-   </ol>
-</ul>
-
+ 
+<li>
 style.css:
-
+   </li>
+  </ol>
+</ul>
 /_
 Theme Name: My Custom Theme
 Description: This is a custom theme developed by [Your Name].
